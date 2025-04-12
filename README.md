@@ -1,2 +1,2 @@
 # FiniteStateMachine
-Simple implementations of finite state machines to validate email strings according to context free grammar
+Simple implementations of finite state machines to validate input strings according to their respectove context free grammar
